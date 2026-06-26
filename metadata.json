@@ -1,0 +1,6 @@
+{
+  "name": "Pundra Bus Tracker",
+  "description": "A modern university bus tracking app for Pundra University of Science and Technology, Bogura, with simulated GPS tracking, countdown, offline support, QR code details, emergency alerts, and dedicated student/driver/admin dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
